@@ -1,0 +1,28 @@
+TASK 2: EXPLORATORY DATA ANALYSIS (EDA) REPORT
+====================================================
+Number of student records analysed: 20
+Average exam score: 79.70
+Lowest exam score: 55.00
+Highest exam score: 98.00
+Department with the highest average exam score: Computer Science (87.75)
+Correlation between study hours and exam score: 0.94
+Interpretation: correlation close to +1 indicates a positive relationship; close to -1 indicates a negative relationship; near 0 indicates a weak linear relationship.
+Potential exam-score outliers using IQR: 0
+
+Department average exam scores:
+Department
+Computer Science    87.75
+Commerce            78.17
+Arts                70.50
+
+Charts created:
+1. eda_exam_score_histogram.png
+2. eda_department_average_bar.png
+3. eda_study_hours_scatter.png
+
+Key findings:
+- The histogram shows how exam scores are distributed.
+- The bar chart compares average exam scores across departments.
+- The scatter plot helps inspect the relationship between study hours and exam scores.
+- The correlation value gives a numerical summary of the linear relationship.
+- IQR is used to flag possible outliers; an outlier should be investigated, not automatically deleted.

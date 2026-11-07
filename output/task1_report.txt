@@ -1,0 +1,39 @@
+TASK 1: DATA CLEANING & EXPLORATION REPORT
+================================================
+Original rows: 21
+Duplicate rows removed: 1
+Rows after duplicate removal: 20
+
+Missing/invalid values detected before filling:
+Student_ID     0
+Name           0
+Age            2
+Study_Hours    1
+Attendance     0
+Exam_Score     1
+Department     0
+
+Cleaning steps applied:
+1. Loaded the CSV dataset using pandas.
+2. Removed exact duplicate rows.
+3. Converted Age, Study_Hours, Attendance and Exam_Score to numeric data types.
+4. Replaced invalid numeric text with missing values.
+5. Filled missing numeric values with the column median.
+6. Filled missing text values with the most frequent value.
+7. Saved the cleaned dataset as output/cleaned_data.csv.
+
+Mean and median:
+             mean  median
+Age          19.7    19.5
+Study_Hours   2.9     2.8
+Attendance   85.7    86.5
+Exam_Score   79.7    82.0
+
+Department value counts:
+Department
+Computer Science    8
+Commerce            6
+Arts                6
+
+Final row count: 20
+Remaining missing values: 0

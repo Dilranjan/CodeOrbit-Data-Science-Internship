@@ -1,0 +1,22 @@
+Student_ID,Name,Age,Study_Hours,Attendance,Exam_Score,Department
+S001,Aarav,19,2.5,85,78,Computer Science
+S002,Diya,20,3.0,90,85,Computer Science
+S003,Kabir,18,1.5,75,65,Commerce
+S004,Anaya,21,4.0,95,92,Computer Science
+S005,Vivaan,19,2.0,80,72,Arts
+S006,Isha,20,3.5,88,89,Commerce
+S007,Reyansh,twenty,2.0,82,70,Arts
+S008,Saanvi,18,5.0,98,96,Computer Science
+S009,Arjun,22,1.0,68,55,Commerce
+S010,Myra,19,3.0,87,82,Arts
+S011,Advait,,2.5,84,75,Computer Science
+S012,Aadhya,20,,91,88,Commerce
+S013,Krishna,21,4.5,96,94,Computer Science
+S014,Sara,18,1.0,70,58,Arts
+S015,Ishaan,19,2.8,86,N/A,Commerce
+S016,Pari,20,3.2,89,84,Computer Science
+S017,Rudra,23,6.0,99,98,Computer Science
+S018,Kiara,19,1.8,77,68,Arts
+S019,Atharv,21,3.8,93,90,Commerce
+S020,Navya,18,2.2,81,73,Arts
+S002,Diya,20,3.0,90,85,Computer Science
